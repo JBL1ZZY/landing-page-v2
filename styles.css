@@ -110,9 +110,6 @@ body{
 .subright img {
    background-color: rgb(109, 116, 125);
    padding: 35px 175px;
-   min-height: 175px;
-   min-width: 200px;
-   max-width: 200px;
 }
 
 .randominfo {
