@@ -1,0 +1,1 @@
+Second Odin project. First page built from scratch.
