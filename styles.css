@@ -130,7 +130,7 @@ body{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-`    gap: 32px;
+    gap: 32px;
 }
 
 .card {
